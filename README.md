@@ -11,10 +11,9 @@ The project is broken down into multiple steps:
 * Use the trained classifier to predict image content
 
 ## The files in this repo:
-1. The downloaded flower dataset
-2. Image Classifier Application Project using Pytorch.ipynb : The project file in Jupyter Notebook where most steps are conducted and validated 
-3. train.py and predict.py: 2 main python functions to run the command line application. 
-4. Helper functions:
+1. Image Classifier Application Project using Pytorch.ipynb : The project file in Jupyter Notebook where most steps are conducted and validated 
+2. train.py and predict.py: 2 main python functions to run the command line application. 
+3. Helper functions:
     * helper.py : Host functions to process images, view images, save and load checkpoint of the model
     * TrainTestPredictFunc.py : Host functions to train, validate and predict images    
 
