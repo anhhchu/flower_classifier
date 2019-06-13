@@ -6,9 +6,9 @@ The dataset has 102 flower species: this dataset. You can download this dataset 
 
 The project is broken down into multiple steps:
 
-*Load and preprocess the image dataset
-*Train the image classifier on your dataset
-*Use the trained classifier to predict image content
+* Load and preprocess the image dataset
+* Train the image classifier on your dataset
+* Use the trained classifier to predict image content
 
 ## The files in this repo:
 1. The downloaded flower dataset
