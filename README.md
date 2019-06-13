@@ -1,6 +1,7 @@
 # Image-Classifier-Application-with-Pytorch
 
-This project aims to train an image classifier to recognize different species of flowers, then build a command line application to train the model and predict any dataset of labled images.
+This project aims to train an image classifier to recognize different species of flowers using Torchvision pretrained models (Densenet121, VGG), then build a command line application to train the model and predict any dataset of labeled images.
+
 
 The dataset has 102 flower species: this dataset. You can download this dataset to work on your local machine. However the training step requires Cuda GPU for faster processing time 
 
