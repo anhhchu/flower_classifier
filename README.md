@@ -3,7 +3,7 @@
 This project aims to train an image classifier to recognize different species of flowers using Torchvision pretrained models (Densenet121, VGG), then build a command line application to train the model and predict any dataset of labeled images.
 
 
-The dataset has 102 flower species: this dataset. You can download this dataset to work on your local machine. However the training step requires Cuda GPU for faster processing time 
+The dataset has 102 flower specier. 
 
 The project is broken down into multiple steps:
 
